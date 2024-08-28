@@ -2,5 +2,4 @@
 
 [www.anamaria.dev.br](https://www.anamaria.dev.br/)
 
-
-´HTML, CSS, Javascript´
+HTML, CSS, Javascript
